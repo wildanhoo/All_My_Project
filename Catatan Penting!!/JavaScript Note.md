@@ -49,3 +49,4 @@ TIPE DATA ( JavaScript ) :
 
 if = jika
 else = selain itu
+while = selama
